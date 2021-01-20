@@ -34,7 +34,7 @@
 .universal-h2 {
   font-size: 48px;
   text-align: center;
-  color: #222; }
+  color: #a0a0a0; }
   @media (max-width: 1250px) {
     .universal-h2 {
       font-size: 38px; } }
@@ -947,4 +947,8 @@
     .modal-content {
     width: 100%;
     }
+  }
+
+  p{
+    color: #fefefe;
   }
