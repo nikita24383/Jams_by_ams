@@ -333,7 +333,7 @@
   height: 500px;
   top: -75px;
   right: 0;
-  height: calc(100% + 150px);
+  height: calc(100% + 200px);
   width: 70%;
   z-index: -1;
 }
